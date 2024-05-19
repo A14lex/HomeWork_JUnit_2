@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ru.ajkul</groupId>
-    <artifactId>Использование JUnit</artifactId>
+    <artifactId>Using_JUnit</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
