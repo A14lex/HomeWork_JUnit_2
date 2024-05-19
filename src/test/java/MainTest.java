@@ -1,6 +1,6 @@
 import org.junit.jupiter.api.Assertions;
 
-public class MyTest {
+public class MainTest {
     @org.junit.jupiter.api.Test
     public void testValidArguments() {
         //совпадение результата с ожидаемым - true

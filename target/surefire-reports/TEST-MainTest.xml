@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="3" failures="0" name="MyTest" time="0.033" errors="0" skipped="0">
+<testsuite tests="3" failures="0" name="MainTest" time="0.059" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="java.vm.version" value="14+36-1461"/>
@@ -59,7 +59,7 @@
     <property name="sun.cpu.endian" value="little"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="MyTest" name="MyTest.testNealidArguments" time="0.007"/>
-  <testcase classname="MyTest" name="MyTest.testLength" time="0.026"/>
-  <testcase classname="MyTest" name="MyTest.testValidArguments" time="0"/>
+  <testcase classname="MainTest" name="MainTest.testNealidArguments" time="0.006"/>
+  <testcase classname="MainTest" name="MainTest.testLength" time="0.05"/>
+  <testcase classname="MainTest" name="MainTest.testValidArguments" time="0.003"/>
 </testsuite>
